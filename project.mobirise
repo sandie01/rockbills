@@ -83,6 +83,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -138,18 +143,18 @@
             "showBullets": false
           },
           "_anchor": "slider-1",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features1-2",
           "_params": {
             "paddingTop": 3,
@@ -194,7 +199,7 @@
               "size": 0
             }
           },
-          "title1": "OUR MISSION&nbsp;<br><br><br>Our mission is to be the premier provider of superior financial solutions by earning our members trust in the most friendly,professional manner possible. &nbsp; &nbsp; &nbsp;",
+          "title1": "OUR MISSION&nbsp;<br><br><br><span style=\"font-weight: normal;\">Our mission is to be the premier provider of superior financial solutions by earning our members trust in the most friendly,professional manner possible. &nbsp; &nbsp; &nbsp;</span>",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
@@ -214,7 +219,7 @@
               "size": 0
             }
           },
-          "title2": "OUR CORE VALUES<br><br><span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">&nbsp;The well being of the populace/members are our long-term aim.Rockbills is not for profit, not for Charity,</span><span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">&nbsp;but for service to our dedicated members.</span><div>&nbsp;We will communicate openly and honestly with each other, members and the community at large as we develop people<span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">&nbsp;for the enduring liability in a real-time process.</span></div>",
+          "title2": "OUR CORE VALUES<br><br><span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">&nbsp;<span style=\"font-weight: normal;\">The well being of the populace/members are our long-term aim.Rockbills is not for profit, not for Charity,</span></span><span style=\"color: inherit; font-family: inherit; line-height: 1.1em; font-weight: normal;\">&nbsp;but for service to our dedicated members.</span><div><span style=\"font-weight: normal;\">&nbsp;We will communicate openly and honestly with each other, members and the community at large as we develop people<span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">&nbsp;for the enduring liability in a real-time process.</span></span></div>",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -234,7 +239,7 @@
               "size": 0
             }
           },
-          "title3": "RECOMMITMENTS<br><br>The system merges you Automatically to your uplines while your downlines&nbsp;<span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">will also be automatically merged to pay you.&nbsp;</span><div>Rockbills system has an Auto recommitment and Auto recycle feature so you donations are Safe.&nbsp;</div><div><br></div>",
+          "title3": "RECOMMITMENTS<br><span style=\"font-weight: normal;\"><br>The</span> <span style=\"font-weight: normal;\">system merges you Automatically to your uplines while your downlines&nbsp;<span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">will also be automatically merged to pay you.&nbsp;</span></span><div><span style=\"font-weight: normal;\">Rockbills system has an Auto recommitment and Auto recycle feature so you donations are Safe.&nbsp;</span></div><div><br></div>",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "media4": {
@@ -254,7 +259,7 @@
               "size": 0
             }
           },
-          "title4": "HOW IT WORKS<br><br>When you Join, you will need to donate a certain amount either ₦10,000, ₦20,000, ₦50,000 ,<span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">₦100,000&nbsp;</span><span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">to a fellow member assigned by the system for you to pay to.</span><div>The member will then confirm your donations of 20% and 80%, then the system will automatically assign you to other registered&nbsp;<span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">members, who will also pay you your capital and the pecerntage released by the system into the bank account you registered with,</span><span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">making Investment + 50% Bonus ROI. 50% of ₦10,000 is </span><span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">₦15,000, 50% of</span></div><div>₦20,000 is ₦30,000, 50<span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">% of ₦100000 is ₦ 150,000</span></div><div>when you recieve your Donations you have to Recommit in order to Claim all with held in the system.</div><div><br></div>",
+          "title4": "HOW IT WORKS<br><br><span style=\"font-weight: normal;\">When you Join, you will need to donate a certain amount either ₦10,000, ₦20,000, ₦50,000 ,<span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">₦100,000&nbsp;</span><span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">to a fellow member assigned by the system for you to pay to.</span></span><div><span style=\"font-weight: normal;\">The member will then confirm your donations of 20% and 80%, then the system will automatically assign you to other registered&nbsp;<span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">members, who will also pay you your capital and the pecerntage released by the system into the bank account you registered with,</span><span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">making Investment + 50% Bonus ROI. 50% of ₦10,000 is </span><span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">₦15,000, 50% of</span></span></div><div><span style=\"font-weight: normal;\">₦20,000 is ₦30,000, 50<span style=\"color: inherit; font-family: inherit; line-height: 1.1em;\">% of ₦100000 is ₦ 150,000</span></span></div><div><span style=\"font-weight: normal;\">when you recieve your Donations you have to Recommit in order to Claim all with held in the system.</span></div><div><br></div>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
@@ -296,27 +301,22 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            ".mbr-section__col .mbr-header__text": {
-              "text-align": "left"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "items": [
             {
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "I love the Outlook and the idea for this site.",
               "authorName": "ABANOUB S.",
               "authorBio": "User"
             },
             {
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super cool.&nbsp;</p>",
               "authorName": "SUFFIAN A.",
               "authorBio": "User"
             },
             {
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p class=\"mbr-reviews__p\">I like the great focus and time that was given to the responsive design, i also like the simple and clear colours</p>",
               "authorName": "JHOLLMAN C.",
               "authorBio": "User"
             }
@@ -465,8 +465,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@rockbills.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>ADDRESS</strong><br>\n1276 Coy street<br>\nCity, AA Atlanta",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@rockbills.com<br>\nPhone: +1 (0) 44689640160<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         },
         {
